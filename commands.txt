@@ -1,1 +1,1 @@
-curl -X GET http://23.20.181.23/tcc/test/login.php -d '{"email":"fulano@gmail.com","senha":"123"}'
+curl -X GET http://3.94.83.215/tcc_readnow/backend/login.php -d '{"email":"fulano@gmail.com","senha":"123"}'
