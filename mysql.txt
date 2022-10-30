@@ -1,0 +1,7 @@
+CREATE USER 'etec'@'localhost' IDENTIFIED BY 'password';
+
+GRANT ALL PRIVILEGES ON *.* TO 'etec'@'localhost' WITH GRANT OPTION;
+
+
+CREATE USER 'daniel'@'localhost' IDENTIFIED BY '123';
+GRANT ALL PRIVILEGES ON *.* TO 'daniel'@'localhost' WITH GRANT OPTION;
